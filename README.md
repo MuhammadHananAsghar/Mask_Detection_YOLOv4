@@ -6,3 +6,5 @@ Dataset Download Link: https://drive.google.com/file/d/17tBz1tFNKLqD-8bfN_9ytN_M
 Trained Weights Link: https://drive.google.com/file/d/1-2M_4CO11LNN4XeGO14XIe0udtfJbYyV/view?usp=sharing
 
 I have trained upto loss 0.15 approx.
+
+![Detections](/detections/download.png)
