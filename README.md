@@ -8,3 +8,9 @@ Trained Weights Link: https://drive.google.com/file/d/1-2M_4CO11LNN4XeGO14XIe0ud
 I have trained upto loss 0.15 approx.
 
 ![Detections](/detections/download.png)
+![Detections](/detections/2.png)
+![Detections](/detections/3.png)
+![Detections](/detections/4.png)
+![Detections](/detections/5.png)
+![Detections](/detections/6.png)
+![Detections](/detections/7.png)
